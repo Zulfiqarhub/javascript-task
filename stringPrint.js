@@ -25,7 +25,7 @@
 
   // const test_string = "12d6g4h";
   const test_string = "a5b2c3";
-
+// function to print alpha with the corresponding number times irrespective of positions
   function printntimes(params){
           const givenString = params;
       // seperate number ad alphabet make it as two array
